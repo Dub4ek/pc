@@ -1,0 +1,24 @@
+#extensions, files
+*.zip
+*.rar
+*.7z
+*.psd
+*.ai
+Thumbs.db
+*.bak
+*.diff
+*.err
+*.exe
+*.log
+*.sass-cache
+npm-debug.log
+
+# folders
+bower_components/
+/node_modules
+trash/
+materials/
+.git/
+old/
+.idea/
+mat.lnk
